@@ -11,7 +11,6 @@ require_once 'bootstrap.php';
     <div class="  col-md-6 col-sm-12 mx-auto col-md-offset-3">
         <div class=" jumbotron card card-body bg-light mt-5">
             <h2>Login Panel</h2>
-
             <form action="<?php echo URLROOT; ?>/actions/__login.php" method="post">
                 <!--div class="form-group">
                     <label for="email">Email: <sup>*</sup></label>
